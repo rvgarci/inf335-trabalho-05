@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="br.unicamp.ic.inf335.AnuncianteBeanTest" time="0.274" tests="9" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="br.unicamp.ic.inf335.AnuncianteBeanTest" time="0.999" tests="9" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Users\RGarcia17\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.7.v20230425-1502\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\RGARCI~1\AppData\Local\Temp\surefire3707603274066185828\surefirebooter5138140673700968561.jar C:\Users\RGarcia17\AppData\Local\Temp\surefire3707603274066185828 2024-07-09T23-29-06_316-jvmRun1 surefire5945186850921965627tmp surefire_01849472430394698364tmp"/>
+    <property name="sun.java.command" value="C:\Users\RGARCI~1\AppData\Local\Temp\surefire7809777058299423561\surefirebooter7435507082832665543.jar C:\Users\RGarcia17\AppData\Local\Temp\surefire7809777058299423561 2024-07-09T23-35-32_879-jvmRun1 surefire2276572551965531395tmp surefire_011543423936611229976tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\RGarcia17\eclipse-workspace\inf335-trabalho-05\target\test-classes;C:\Users\RGarcia17\eclipse-workspace\inf335-trabalho-05\target\classes;C:\Users\RGarcia17\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\RGarcia17\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.2\junit-jupiter-engine-5.9.2.jar;C:\Users\RGarcia17\.m2\repository\org\junit\platform\junit-platform-engine\1.9.2\junit-platform-engine-1.9.2.jar;C:\Users\RGarcia17\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\RGarcia17\.m2\repository\org\junit\platform\junit-platform-commons\1.9.2\junit-platform-commons-1.9.2.jar;C:\Users\RGarcia17\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.2\junit-jupiter-api-5.9.2.jar;C:\Users\RGarcia17\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\RGARCI~1\AppData\Local\Temp\surefire3707603274066185828\surefirebooter5138140673700968561.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\RGARCI~1\AppData\Local\Temp\surefire7809777058299423561\surefirebooter7435507082832665543.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.7+7"/>
@@ -58,13 +58,13 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="testRemoveAnuncio" classname="br.unicamp.ic.inf335.AnuncianteBeanTest" time="0.016"/>
-  <testcase name="testValorMedioAnuncios" classname="br.unicamp.ic.inf335.AnuncianteBeanTest" time="0.001"/>
+  <testcase name="testRemoveAnuncio" classname="br.unicamp.ic.inf335.AnuncianteBeanTest" time="0.018"/>
+  <testcase name="testValorMedioAnuncios" classname="br.unicamp.ic.inf335.AnuncianteBeanTest" time="0"/>
   <testcase name="testGetNome" classname="br.unicamp.ic.inf335.AnuncianteBeanTest" time="0"/>
   <testcase name="testAddAnuncio" classname="br.unicamp.ic.inf335.AnuncianteBeanTest" time="0"/>
-  <testcase name="testSetAnuncios" classname="br.unicamp.ic.inf335.AnuncianteBeanTest" time="0.003"/>
-  <testcase name="testGetAnuncios" classname="br.unicamp.ic.inf335.AnuncianteBeanTest" time="0.24"/>
-  <testcase name="testGetCPF" classname="br.unicamp.ic.inf335.AnuncianteBeanTest" time="0"/>
+  <testcase name="testSetAnuncios" classname="br.unicamp.ic.inf335.AnuncianteBeanTest" time="0.005"/>
+  <testcase name="testGetAnuncios" classname="br.unicamp.ic.inf335.AnuncianteBeanTest" time="0.96"/>
+  <testcase name="testGetCPF" classname="br.unicamp.ic.inf335.AnuncianteBeanTest" time="0.001"/>
   <testcase name="testSetNome" classname="br.unicamp.ic.inf335.AnuncianteBeanTest" time="0"/>
   <testcase name="testSetCPF" classname="br.unicamp.ic.inf335.AnuncianteBeanTest" time="0"/>
 </testsuite>
